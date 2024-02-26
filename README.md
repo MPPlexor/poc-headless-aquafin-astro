@@ -3,7 +3,7 @@
 ## Infra
 
 - GitHub pages: https://docs.astro.build/en/guides/deploy/github/
-- Azure: 
+- Azure: https://docs.astro.build/en/guides/deploy/microsoft-azure/
 
 ```sh
 npm create astro@latest -- --template basics
