@@ -1,5 +1,10 @@
 # Astro Starter Kit: Basics
 
+## Infra
+
+- GitHub pages: https://docs.astro.build/en/guides/deploy/github/
+- Azure: 
+
 ```sh
 npm create astro@latest -- --template basics
 ```
